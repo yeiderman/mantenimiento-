@@ -20,7 +20,7 @@
     ],
     'demo': [
         # 'demo/demo.xml', # Datos de demostración
-    ],
+    ],  #soy_yo_yei
     'installable': True,
     'application': True,
     'auto_install': False,
